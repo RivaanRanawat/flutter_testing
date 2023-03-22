@@ -11,5 +11,8 @@ Welcome to the repository for the Flutter Testing Tutorial. This repository cont
 2. Users Example - [widget_test/users_example/test/home_page_test.dart](https://github.com/RivaanRanawat/flutter_testing/blob/master/widget_test/users_example/test/home_screen_test.dart)
 3. Animation Example - [widget_test/animations_example/test/animation_screen_test.dart](https://github.com/RivaanRanawat/flutter_testing/blob/master/widget_test/animation_example/test/animation_screen_test.dart)
 
+## [Integration Testing](https://youtu.be/GuGdIg4iH_k)
+1. Form Example - [integration_test/form_example/integration_test/app_test.dart](https://github.com/RivaanRanawat/flutter_testing/blob/master/integration_test/form_example/integration_test/app_test.dart)
+
 
 Note: Make sure you have Flutter installed, and run flutter pub get to download the necessary dependencies.
